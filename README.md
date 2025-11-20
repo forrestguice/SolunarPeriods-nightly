@@ -6,4 +6,4 @@ You can use it with the [F-Droid](https://f-droid.org/) Android app.
 
 [![https://raw.githubusercontent.com/forrestguice/SolunarPeriods-nightly/master/fdroid/repo](https://raw.githubusercontent.com/forrestguice/SolunarPeriods-nightly/master/fdroid/repo/icons/icon.png)](https://fdroid.link/#https://raw.githubusercontent.com/forrestguice/SolunarPeriods-nightly/master/fdroid/repo)
 
-Last updated: 2025-11-20 18:06:09 UTC
+Last updated: 2025-11-20 18:07:12 UTC
